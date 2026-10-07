@@ -8,7 +8,7 @@ We'll spend about 40 minutes talking through this repo together. Please spend no
 
 To prepare yourself for our discussion, think about:
 
-- How you'd think about turning a user's video brief into a shortlist of tracks.
+- How a brief becomes a shortlist of tracks. Be ready to walk us through the flow.
 - What you'd change before putting this in front of real users, and why.
 - Where you'd take it next and how you'd extend it.
 
