@@ -1,0 +1,156 @@
+:root {
+  --bg: #f1f0eb;
+  --fg: #292c33;
+  --fg-strong: #000;
+  --fg-muted: #5a5e6a;
+  --border-soft: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.32);
+  --accent: #23408e;
+  --accent-hover: #1b3270;
+  --error: #b03a2e;
+  --font-display: "Roboto Serif", Georgia, serif;
+  --font-body: "Inter", Helvetica, Arial, sans-serif;
+  --font-cta: "Poppins", "Inter", Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 48px 20px;
+}
+
+h1,
+h2 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--fg-strong);
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(36px, 5vw, 56px);
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.eyebrow {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--fg-strong);
+}
+
+.muted {
+  color: var(--fg-muted);
+}
+
+.error {
+  color: var(--error);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 32px 0;
+  padding: 28px;
+  background: #fff;
+  border: 1.5px solid #000;
+  border-radius: 6px;
+}
+
+textarea {
+  font: inherit;
+  font-size: 17px;
+  padding: 8px 0;
+  border: 0;
+  border-bottom: 1.5px solid var(--border-strong);
+  outline: none;
+  resize: vertical;
+}
+
+textarea:focus {
+  border-bottom-color: var(--accent);
+}
+
+.btn {
+  font-family: var(--font-cta);
+  font-weight: 700;
+  font-size: 13px;
+  padding: 12px 20px;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.btn--primary {
+  align-self: flex-start;
+  background: var(--accent);
+  color: #fff;
+}
+
+.btn--primary:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+.btn--secondary {
+  background: transparent;
+  border: 1px solid var(--border-strong);
+}
+
+.btn--ghost {
+  padding: 8px 0;
+  background: transparent;
+  color: var(--accent);
+}
+
+.tracks {
+  margin: 16px 0 0;
+  padding-left: 1.25rem;
+}
+
+.tracks li {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.track p {
+  margin: 4px 0;
+}
+
+.track audio {
+  display: block;
+  margin-top: 8px;
+}
+
+.used {
+  padding: 12px 0;
+  font-family: var(--font-cta);
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--fg-muted);
+  white-space: nowrap;
+}

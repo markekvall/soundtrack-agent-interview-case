@@ -1,0 +1,43 @@
+services:
+  mockapi:
+    build:
+      context: .
+      args:
+        CMD: mockapi
+    environment:
+      MOCK_FAILURE_RATE: ${MOCK_FAILURE_RATE:-0}
+    ports:
+      - "4010:4010"
+
+  backend:
+    build:
+      context: .
+      args:
+        CMD: server
+    env_file: .env
+    environment:
+      CONTENT_API_URL: http://mockapi:4010
+      DB_PATH: /data/soundtrack.db
+    volumes:
+      - data:/data
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mockapi
+
+  web:
+    image: node:22-alpine
+    working_dir: /web
+    command: sh -c "npm ci && npm run dev"
+    environment:
+      API_URL: http://backend:8080
+    volumes:
+      - ./web:/web
+      - /web/node_modules
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+volumes:
+  data:

@@ -1,0 +1,1625 @@
+[
+  {
+    "id": "Qm4tR8vNa1",
+    "title": "Run the Line",
+    "mainArtists": [
+      {
+        "id": "halden-park",
+        "name": "Halden Park"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 128,
+    "length": 162,
+    "moods": [
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      },
+      {
+        "id": "confident",
+        "name": "Confident"
+      }
+    ],
+    "genres": [
+      {
+        "id": "house",
+        "name": "House"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-01-01T00:00:00Z",
+    "tags": [
+      "sport",
+      "drive",
+      "build",
+      "drop"
+    ]
+  },
+  {
+    "id": "Lp2wZ6kHc3",
+    "title": "Split Second",
+    "mainArtists": [
+      {
+        "id": "mira-okafor",
+        "name": "Mira Okafor"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 124,
+    "length": 148,
+    "moods": [
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      },
+      {
+        "id": "happy",
+        "name": "Happy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "house",
+        "name": "House"
+      },
+      {
+        "id": "electronic",
+        "name": "Electronic"
+      }
+    ],
+    "vocalType": "PRESENCE",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-01-10T00:00:00Z",
+    "tags": [
+      "product",
+      "upbeat",
+      "claps"
+    ]
+  },
+  {
+    "id": "Xd7yB3nQe5",
+    "title": "Pavement Glow",
+    "mainArtists": [
+      {
+        "id": "night-office",
+        "name": "Night Office"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 110,
+    "length": 201,
+    "moods": [
+      {
+        "id": "confident",
+        "name": "Confident"
+      },
+      {
+        "id": "dreamy",
+        "name": "Dreamy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "synthwave",
+        "name": "Synthwave"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-01-19T00:00:00Z",
+    "tags": [
+      "city",
+      "neon",
+      "retro"
+    ]
+  },
+  {
+    "id": "Rt9kM1sVg7",
+    "title": "Top Speed",
+    "mainArtists": [
+      {
+        "id": "halden-park",
+        "name": "Halden Park"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 140,
+    "length": 133,
+    "moods": [
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      },
+      {
+        "id": "epic",
+        "name": "Epic"
+      }
+    ],
+    "genres": [
+      {
+        "id": "electronic",
+        "name": "Electronic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-01-28T00:00:00Z",
+    "tags": [
+      "sport",
+      "fast",
+      "race"
+    ]
+  },
+  {
+    "id": "Hn5cJ8pWi9",
+    "title": "Morning Mile",
+    "mainArtists": [
+      {
+        "id": "sunday-engines",
+        "name": "Sunday Engines"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 118,
+    "length": 176,
+    "moods": [
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      },
+      {
+        "id": "happy",
+        "name": "Happy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "indie-pop",
+        "name": "Indie Pop"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-02-06T00:00:00Z",
+    "tags": [
+      "running",
+      "morning",
+      "guitar"
+    ]
+  },
+  {
+    "id": "Vb3fT6rYk2",
+    "title": "Bright Side Out",
+    "mainArtists": [
+      {
+        "id": "lua-the-tide",
+        "name": "Lua & The Tide"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 122,
+    "length": 158,
+    "moods": [
+      {
+        "id": "happy",
+        "name": "Happy"
+      },
+      {
+        "id": "playful",
+        "name": "Playful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "indie-pop",
+        "name": "Indie Pop"
+      },
+      {
+        "id": "pop",
+        "name": "Pop"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-02-15T00:00:00Z",
+    "tags": [
+      "summer",
+      "claps",
+      "whistle"
+    ]
+  },
+  {
+    "id": "Gc8xN2dLm4",
+    "title": "Warm Kitchen",
+    "mainArtists": [
+      {
+        "id": "olive-marsh",
+        "name": "Olive Marsh"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 92,
+    "length": 214,
+    "moods": [
+      {
+        "id": "laid-back",
+        "name": "Laid Back"
+      },
+      {
+        "id": "happy",
+        "name": "Happy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "folk",
+        "name": "Folk"
+      },
+      {
+        "id": "acoustic",
+        "name": "Acoustic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-02-24T00:00:00Z",
+    "tags": [
+      "cooking",
+      "cosy",
+      "ukulele"
+    ]
+  },
+  {
+    "id": "Ps1hK7vBo6",
+    "title": "Sunday Sauce",
+    "mainArtists": [
+      {
+        "id": "the-lettuce-club",
+        "name": "The Lettuce Club"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 98,
+    "length": 187,
+    "moods": [
+      {
+        "id": "playful",
+        "name": "Playful"
+      },
+      {
+        "id": "happy",
+        "name": "Happy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "funk",
+        "name": "Funk"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-03-05T00:00:00Z",
+    "tags": [
+      "cooking",
+      "bass",
+      "groove"
+    ]
+  },
+  {
+    "id": "Wy6mD4tFq8",
+    "title": "Slow Rise",
+    "mainArtists": [
+      {
+        "id": "tomas-iversen",
+        "name": "Tomas Iversen"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 84,
+    "length": 242,
+    "moods": [
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      },
+      {
+        "id": "laid-back",
+        "name": "Laid Back"
+      }
+    ],
+    "genres": [
+      {
+        "id": "acoustic",
+        "name": "Acoustic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-03-14T00:00:00Z",
+    "tags": [
+      "piano",
+      "calm",
+      "morning"
+    ]
+  },
+  {
+    "id": "Ze2jR9cHs1",
+    "title": "Crumbs",
+    "mainArtists": [
+      {
+        "id": "beanbag-theory",
+        "name": "Beanbag Theory"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 86,
+    "length": 156,
+    "moods": [
+      {
+        "id": "laid-back",
+        "name": "Laid Back"
+      },
+      {
+        "id": "dreamy",
+        "name": "Dreamy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "lo-fi",
+        "name": "Lo-Fi Hip Hop"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-03-23T00:00:00Z",
+    "tags": [
+      "study",
+      "vinyl",
+      "chill",
+      "loop"
+    ]
+  },
+  {
+    "id": "Nf7qL3wXu3",
+    "title": "Cafe Window",
+    "mainArtists": [
+      {
+        "id": "beanbag-theory",
+        "name": "Beanbag Theory"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 80,
+    "length": 171,
+    "moods": [
+      {
+        "id": "laid-back",
+        "name": "Laid Back"
+      },
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "lo-fi",
+        "name": "Lo-Fi Hip Hop"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-04-01T00:00:00Z",
+    "tags": [
+      "rain",
+      "coffee",
+      "loop"
+    ]
+  },
+  {
+    "id": "Ka4vP8yEw5",
+    "title": "Butter Keys",
+    "mainArtists": [
+      {
+        "id": "ines-duarte-trio",
+        "name": "Ines Duarte Trio"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 104,
+    "length": 198,
+    "moods": [
+      {
+        "id": "playful",
+        "name": "Playful"
+      },
+      {
+        "id": "laid-back",
+        "name": "Laid Back"
+      }
+    ],
+    "genres": [
+      {
+        "id": "jazz",
+        "name": "Jazz"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-04-10T00:00:00Z",
+    "tags": [
+      "piano",
+      "brushes",
+      "cooking"
+    ]
+  },
+  {
+    "id": "Ub9sG1mTy7",
+    "title": "Summit Light",
+    "mainArtists": [
+      {
+        "id": "aurora-fields",
+        "name": "Aurora Fields"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 90,
+    "length": 224,
+    "moods": [
+      {
+        "id": "epic",
+        "name": "Epic"
+      },
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "cinematic",
+        "name": "Cinematic"
+      },
+      {
+        "id": "trailer",
+        "name": "Trailer"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-04-19T00:00:00Z",
+    "tags": [
+      "mountain",
+      "sunrise",
+      "build",
+      "strings"
+    ]
+  },
+  {
+    "id": "Ej3nW5bRa9",
+    "title": "Beyond the Ridge",
+    "mainArtists": [
+      {
+        "id": "aurora-fields",
+        "name": "Aurora Fields"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 100,
+    "length": 185,
+    "moods": [
+      {
+        "id": "epic",
+        "name": "Epic"
+      },
+      {
+        "id": "confident",
+        "name": "Confident"
+      }
+    ],
+    "genres": [
+      {
+        "id": "trailer",
+        "name": "Trailer"
+      }
+    ],
+    "vocalType": "PRESENCE",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-04-28T00:00:00Z",
+    "tags": [
+      "adventure",
+      "drums",
+      "choir",
+      "lift"
+    ]
+  },
+  {
+    "id": "Oi8tC2kVc2",
+    "title": "First Light",
+    "mainArtists": [
+      {
+        "id": "selma-hart",
+        "name": "Selma Hart"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 76,
+    "length": 207,
+    "moods": [
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      },
+      {
+        "id": "sentimental",
+        "name": "Sentimental"
+      }
+    ],
+    "genres": [
+      {
+        "id": "ambient",
+        "name": "Ambient"
+      },
+      {
+        "id": "cinematic",
+        "name": "Cinematic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-05-07T00:00:00Z",
+    "tags": [
+      "sunrise",
+      "piano",
+      "slow build"
+    ]
+  },
+  {
+    "id": "Ml5yH7qZd4",
+    "title": "Wide Open",
+    "mainArtists": [
+      {
+        "id": "coastline-radio",
+        "name": "Coastline Radio"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 96,
+    "length": 190,
+    "moods": [
+      {
+        "id": "epic",
+        "name": "Epic"
+      },
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "indie-pop",
+        "name": "Indie Pop"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-05-16T00:00:00Z",
+    "tags": [
+      "travel",
+      "road trip",
+      "anthem"
+    ]
+  },
+  {
+    "id": "Ty1dF4jNf6",
+    "title": "Glass Horizon",
+    "mainArtists": [
+      {
+        "id": "night-office",
+        "name": "Night Office"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 88,
+    "length": 236,
+    "moods": [
+      {
+        "id": "dreamy",
+        "name": "Dreamy"
+      },
+      {
+        "id": "mysterious",
+        "name": "Mysterious"
+      }
+    ],
+    "genres": [
+      {
+        "id": "ambient",
+        "name": "Ambient"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-05-25T00:00:00Z",
+    "tags": [
+      "space",
+      "pads",
+      "slow"
+    ]
+  },
+  {
+    "id": "Ab6gS9wKh8",
+    "title": "Tidewater",
+    "mainArtists": [
+      {
+        "id": "lua-the-tide",
+        "name": "Lua & The Tide"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 102,
+    "length": 173,
+    "moods": [
+      {
+        "id": "sentimental",
+        "name": "Sentimental"
+      },
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "singer-songwriter",
+        "name": "Singer-Songwriter"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-06-03T00:00:00Z",
+    "tags": [
+      "ocean",
+      "acoustic guitar",
+      "travel"
+    ]
+  },
+  {
+    "id": "Cq2kX8rMj1",
+    "title": "Heavy Crown",
+    "mainArtists": [
+      {
+        "id": "dray-monroe",
+        "name": "Dray Monroe"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 90,
+    "length": 165,
+    "moods": [
+      {
+        "id": "confident",
+        "name": "Confident"
+      },
+      {
+        "id": "dark",
+        "name": "Dark"
+      }
+    ],
+    "genres": [
+      {
+        "id": "boom-bap",
+        "name": "Boom Bap"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": true,
+    "isPreviewOnly": false,
+    "added": "2025-06-12T00:00:00Z",
+    "tags": [
+      "rap",
+      "street",
+      "drums"
+    ]
+  },
+  {
+    "id": "Dr7lV3nPk3",
+    "title": "Night Shift",
+    "mainArtists": [
+      {
+        "id": "dray-monroe",
+        "name": "Dray Monroe"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 94,
+    "length": 152,
+    "moods": [
+      {
+        "id": "dark",
+        "name": "Dark"
+      },
+      {
+        "id": "mysterious",
+        "name": "Mysterious"
+      }
+    ],
+    "genres": [
+      {
+        "id": "hip-hop",
+        "name": "Hip Hop"
+      }
+    ],
+    "vocalType": "PRESENCE",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-06-21T00:00:00Z",
+    "tags": [
+      "city",
+      "night",
+      "bass"
+    ]
+  },
+  {
+    "id": "Fs4pB6tQl5",
+    "title": "Undertow",
+    "mainArtists": [
+      {
+        "id": "selma-hart",
+        "name": "Selma Hart"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 70,
+    "length": 256,
+    "moods": [
+      {
+        "id": "dark",
+        "name": "Dark"
+      },
+      {
+        "id": "mysterious",
+        "name": "Mysterious"
+      }
+    ],
+    "genres": [
+      {
+        "id": "cinematic",
+        "name": "Cinematic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-06-30T00:00:00Z",
+    "tags": [
+      "tension",
+      "thriller",
+      "drone"
+    ]
+  },
+  {
+    "id": "Gt9wN1yRn7",
+    "title": "Fizz",
+    "mainArtists": [
+      {
+        "id": "pocket-rocket",
+        "name": "Pocket Rocket"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 132,
+    "length": 128,
+    "moods": [
+      {
+        "id": "playful",
+        "name": "Playful"
+      },
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      }
+    ],
+    "genres": [
+      {
+        "id": "electronic",
+        "name": "Electronic"
+      },
+      {
+        "id": "pop",
+        "name": "Pop"
+      }
+    ],
+    "vocalType": "PRESENCE",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-07-09T00:00:00Z",
+    "tags": [
+      "kids",
+      "bouncy",
+      "game"
+    ]
+  },
+  {
+    "id": "Hu3aM5cSo9",
+    "title": "Picnic Weather",
+    "mainArtists": [
+      {
+        "id": "olive-marsh",
+        "name": "Olive Marsh"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 112,
+    "length": 149,
+    "moods": [
+      {
+        "id": "happy",
+        "name": "Happy"
+      },
+      {
+        "id": "playful",
+        "name": "Playful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "folk",
+        "name": "Folk"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-07-18T00:00:00Z",
+    "tags": [
+      "ukulele",
+      "whistle",
+      "family"
+    ]
+  },
+  {
+    "id": "Iv8bK2dTp2",
+    "title": "Cold Open",
+    "mainArtists": [
+      {
+        "id": "studio-vanta",
+        "name": "Studio Vanta"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 120,
+    "length": 118,
+    "moods": [
+      {
+        "id": "confident",
+        "name": "Confident"
+      },
+      {
+        "id": "mysterious",
+        "name": "Mysterious"
+      }
+    ],
+    "genres": [
+      {
+        "id": "electronic",
+        "name": "Electronic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-07-27T00:00:00Z",
+    "tags": [
+      "tech",
+      "product",
+      "minimal"
+    ]
+  },
+  {
+    "id": "Jw1cJ7eUq4",
+    "title": "Launch Day",
+    "mainArtists": [
+      {
+        "id": "studio-vanta",
+        "name": "Studio Vanta"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 126,
+    "length": 139,
+    "moods": [
+      {
+        "id": "confident",
+        "name": "Confident"
+      },
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "electronic",
+        "name": "Electronic"
+      },
+      {
+        "id": "house",
+        "name": "House"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-08-05T00:00:00Z",
+    "tags": [
+      "tech",
+      "product",
+      "corporate",
+      "build"
+    ]
+  },
+  {
+    "id": "Kx6dH3fVr6",
+    "title": "Paper Planes Again",
+    "mainArtists": [
+      {
+        "id": "sunday-engines",
+        "name": "Sunday Engines"
+      }
+    ],
+    "featuredArtists": [
+      {
+        "id": "mira-okafor",
+        "name": "Mira Okafor"
+      }
+    ],
+    "bpm": 108,
+    "length": 181,
+    "moods": [
+      {
+        "id": "happy",
+        "name": "Happy"
+      },
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "indie-pop",
+        "name": "Indie Pop"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-08-14T00:00:00Z",
+    "tags": [
+      "friends",
+      "summer",
+      "guitar"
+    ]
+  },
+  {
+    "id": "Ly2eG8gWs8",
+    "title": "Velvet Hour",
+    "mainArtists": [
+      {
+        "id": "ines-duarte-trio",
+        "name": "Ines Duarte Trio"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 72,
+    "length": 263,
+    "moods": [
+      {
+        "id": "sentimental",
+        "name": "Sentimental"
+      },
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "jazz",
+        "name": "Jazz"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-08-23T00:00:00Z",
+    "tags": [
+      "evening",
+      "saxophone",
+      "dinner"
+    ]
+  },
+  {
+    "id": "Mz7fF4hXt1",
+    "title": "Hold the Moment",
+    "mainArtists": [
+      {
+        "id": "coastline-radio",
+        "name": "Coastline Radio"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 82,
+    "length": 219,
+    "moods": [
+      {
+        "id": "sentimental",
+        "name": "Sentimental"
+      },
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "singer-songwriter",
+        "name": "Singer-Songwriter"
+      },
+      {
+        "id": "pop",
+        "name": "Pop"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-09-01T00:00:00Z",
+    "tags": [
+      "wedding",
+      "ballad",
+      "piano"
+    ]
+  },
+  {
+    "id": "Na3gE9iYu3",
+    "title": "Static Bloom",
+    "mainArtists": [
+      {
+        "id": "night-office",
+        "name": "Night Office"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 115,
+    "length": 194,
+    "moods": [
+      {
+        "id": "dreamy",
+        "name": "Dreamy"
+      },
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      }
+    ],
+    "genres": [
+      {
+        "id": "synthwave",
+        "name": "Synthwave"
+      }
+    ],
+    "vocalType": "PRESENCE",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-09-10T00:00:00Z",
+    "tags": [
+      "retro",
+      "night drive",
+      "arpeggio"
+    ]
+  },
+  {
+    "id": "Ob8hD5jZv5",
+    "title": "Last Lap",
+    "mainArtists": [
+      {
+        "id": "halden-park",
+        "name": "Halden Park"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 150,
+    "length": 121,
+    "moods": [
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      },
+      {
+        "id": "epic",
+        "name": "Epic"
+      }
+    ],
+    "genres": [
+      {
+        "id": "electronic",
+        "name": "Electronic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": true,
+    "added": "2025-09-19T00:00:00Z",
+    "tags": [
+      "sport",
+      "race",
+      "countdown"
+    ]
+  },
+  {
+    "id": "Pc4iC1kAw7",
+    "title": "Lemon Peel",
+    "mainArtists": [
+      {
+        "id": "the-lettuce-club",
+        "name": "The Lettuce Club"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 106,
+    "length": 167,
+    "moods": [
+      {
+        "id": "playful",
+        "name": "Playful"
+      },
+      {
+        "id": "confident",
+        "name": "Confident"
+      }
+    ],
+    "genres": [
+      {
+        "id": "funk",
+        "name": "Funk"
+      }
+    ],
+    "vocalType": "PRESENCE",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-09-28T00:00:00Z",
+    "tags": [
+      "groove",
+      "horns",
+      "fashion"
+    ]
+  },
+  {
+    "id": "Qd9jB6lBx9",
+    "title": "Driftwood",
+    "mainArtists": [
+      {
+        "id": "tomas-iversen",
+        "name": "Tomas Iversen"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 68,
+    "length": 231,
+    "moods": [
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      },
+      {
+        "id": "sentimental",
+        "name": "Sentimental"
+      }
+    ],
+    "genres": [
+      {
+        "id": "ambient",
+        "name": "Ambient"
+      },
+      {
+        "id": "acoustic",
+        "name": "Acoustic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-10-07T00:00:00Z",
+    "tags": [
+      "nature",
+      "meditation",
+      "guitar"
+    ]
+  },
+  {
+    "id": "Re5kA2mCy2",
+    "title": "Big Reveal",
+    "mainArtists": [
+      {
+        "id": "aurora-fields",
+        "name": "Aurora Fields"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 105,
+    "length": 142,
+    "moods": [
+      {
+        "id": "epic",
+        "name": "Epic"
+      },
+      {
+        "id": "confident",
+        "name": "Confident"
+      }
+    ],
+    "genres": [
+      {
+        "id": "trailer",
+        "name": "Trailer"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-10-16T00:00:00Z",
+    "tags": [
+      "trailer",
+      "hits",
+      "build",
+      "drop"
+    ]
+  },
+  {
+    "id": "Sf1lZ7nDz4",
+    "title": "Sidewalk Chalk",
+    "mainArtists": [
+      {
+        "id": "pocket-rocket",
+        "name": "Pocket Rocket"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 116,
+    "length": 137,
+    "moods": [
+      {
+        "id": "happy",
+        "name": "Happy"
+      },
+      {
+        "id": "playful",
+        "name": "Playful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "pop",
+        "name": "Pop"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-10-25T00:00:00Z",
+    "tags": [
+      "kids",
+      "summer",
+      "claps"
+    ]
+  },
+  {
+    "id": "Tg6mY3oEa6",
+    "title": "Low Tide Loop",
+    "mainArtists": [
+      {
+        "id": "beanbag-theory",
+        "name": "Beanbag Theory"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 75,
+    "length": 144,
+    "moods": [
+      {
+        "id": "dreamy",
+        "name": "Dreamy"
+      },
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      }
+    ],
+    "genres": [
+      {
+        "id": "lo-fi",
+        "name": "Lo-Fi Hip Hop"
+      },
+      {
+        "id": "downtempo",
+        "name": "Downtempo"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-11-03T00:00:00Z",
+    "tags": [
+      "loop",
+      "beach",
+      "chill"
+    ]
+  },
+  {
+    "id": "Uh2nX8pFb8",
+    "title": "Gold Rush",
+    "mainArtists": [
+      {
+        "id": "mira-okafor",
+        "name": "Mira Okafor"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 100,
+    "length": 176,
+    "moods": [
+      {
+        "id": "confident",
+        "name": "Confident"
+      },
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      }
+    ],
+    "genres": [
+      {
+        "id": "hip-hop",
+        "name": "Hip Hop"
+      },
+      {
+        "id": "funk",
+        "name": "Funk"
+      }
+    ],
+    "vocalType": "LEAD",
+    "hasVocals": true,
+    "isExplicit": true,
+    "isPreviewOnly": false,
+    "added": "2025-11-12T00:00:00Z",
+    "tags": [
+      "fashion",
+      "swagger",
+      "brass"
+    ]
+  },
+  {
+    "id": "Vk3pQ7rTc1",
+    "title": "Kneading Time",
+    "mainArtists": [
+      {
+        "id": "olive-marsh",
+        "name": "Olive Marsh"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 96,
+    "length": 128,
+    "moods": [
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      },
+      {
+        "id": "happy",
+        "name": "Happy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "acoustic",
+        "name": "Acoustic"
+      },
+      {
+        "id": "folk",
+        "name": "Folk"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-11-21T00:00:00Z",
+    "tags": [
+      "cooking",
+      "guitar",
+      "warm"
+    ]
+  },
+  {
+    "id": "Wl8qR2sUd4",
+    "title": "Gentle Simmer",
+    "mainArtists": [
+      {
+        "id": "tomas-iversen",
+        "name": "Tomas Iversen"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 78,
+    "length": 118,
+    "moods": [
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      },
+      {
+        "id": "laid-back",
+        "name": "Laid Back"
+      }
+    ],
+    "genres": [
+      {
+        "id": "acoustic",
+        "name": "Acoustic"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-11-30T00:00:00Z",
+    "tags": [
+      "cooking",
+      "piano",
+      "calm"
+    ]
+  },
+  {
+    "id": "Xm5rS9tVe6",
+    "title": "Open Road Reel",
+    "mainArtists": [
+      {
+        "id": "coastline-radio",
+        "name": "Coastline Radio"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 112,
+    "length": 205,
+    "moods": [
+      {
+        "id": "hopeful",
+        "name": "Hopeful"
+      },
+      {
+        "id": "energetic",
+        "name": "Energetic"
+      }
+    ],
+    "genres": [
+      {
+        "id": "folk",
+        "name": "Folk"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-12-09T00:00:00Z",
+    "tags": [
+      "travel",
+      "banjo",
+      "road trip"
+    ]
+  },
+  {
+    "id": "Yn2sT4uWf8",
+    "title": "Deep Focus",
+    "mainArtists": [
+      {
+        "id": "night-office",
+        "name": "Night Office"
+      }
+    ],
+    "featuredArtists": [],
+    "bpm": 70,
+    "length": 300,
+    "moods": [
+      {
+        "id": "peaceful",
+        "name": "Peaceful"
+      },
+      {
+        "id": "dreamy",
+        "name": "Dreamy"
+      }
+    ],
+    "genres": [
+      {
+        "id": "ambient",
+        "name": "Ambient"
+      },
+      {
+        "id": "downtempo",
+        "name": "Downtempo"
+      }
+    ],
+    "vocalType": "NONE",
+    "hasVocals": false,
+    "isExplicit": false,
+    "isPreviewOnly": false,
+    "added": "2025-12-18T00:00:00Z",
+    "tags": [
+      "study",
+      "focus",
+      "pads"
+    ]
+  }
+]
