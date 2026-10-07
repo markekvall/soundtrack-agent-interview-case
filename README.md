@@ -10,7 +10,7 @@ To prepare yourself for our discussion, think about:
 
 - How a brief becomes a shortlist of tracks. Be ready to walk us through the flow.
 - What you'd change before putting this in front of real users, and why.
-- Where you'd take it next and how you'd extend it.
+- How you'd extend it. We'll give you a small feature to plan together, using whatever AI coding tool you normally work with, so have the repo ready on your machine.
 
 This is a prototype we put together quickly, so there's plenty here to question, challenge, or disagree with.
 
