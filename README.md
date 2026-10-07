@@ -4,13 +4,15 @@ An LLM agent that turns a creator's video brief ("calm acoustic background for a
 
 ## For the interview
 
-We'll spend about 40 minutes talking through this repo together. Please spend no more than an hour with it beforehand, and use whatever tools you normally would, AI assistants included. You don't need to write any code, and you don't need any prior experience building agents. If you don't get time to prepare, that's fine, and it won't be held against you.
+We'll spend about 40 minutes talking through this repo together. Please spend no more than an hour with it beforehand. Use whatever tools you normally would, AI assistants included, both while preparing and during the interview. You don't need to write any code, and you don't need any prior experience building agents. If you don't get time to prepare, that's fine, and it won't be held against you.
 
 To prepare yourself for our discussion, think about:
 
 - How a brief becomes a shortlist of tracks. Be ready to walk us through the flow.
 - What you'd change before putting this in front of real users, and why.
 - How you'd extend it. We'll give you a small feature to plan together, using whatever AI coding tool you normally work with, so have the repo ready on your machine.
+
+If you need an API key for your AI tool, or a laptop for the interview, let us know and we'll provide one.
 
 This is a prototype we put together quickly, so there's plenty here to question, challenge, or disagree with.
 
